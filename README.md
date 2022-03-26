@@ -2,9 +2,9 @@
 🎮I'm a passionate indie game developer<br/>
 🛠Currently working on making mobile games by Unity for both Android & iOS
 
-#🕹 Games :
+
 Play my very first Game, MartialFart!
-(https://play.google.com/store/search?q=MartialFart&c=apps)
+(https://play.google.com/store/search?q=MartialFart&c=apps)<br/>
 Now making a puzzle game called "I'm a ball"
 
 # 💻Tech Stack
