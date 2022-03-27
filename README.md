@@ -4,7 +4,7 @@
 
 
 Play my very first Game, MartialFart!
-(https://play.google.com/store/search?q=MartialFart&c=apps)<br/>
+(https://play.google.com/store/apps/details?id=com.MacaronKing.MatialFart)<br/>
 Now making a puzzle game called "I'm a ball"
 
 # 💻Tech Stack
