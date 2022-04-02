@@ -14,6 +14,10 @@ I will keep updating to make it better but also making a new a puzzle game calle
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohcatman&theme=buefy&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohcatman&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohcatman)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohcatman)  
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
