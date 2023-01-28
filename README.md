@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohcatman&theme=buefy&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohcatman&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohcatman)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohcatman)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohcatman)  
 
