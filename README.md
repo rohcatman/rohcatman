@@ -1,6 +1,6 @@
 # 💫About Me :
-🎮I'm a passionate indie game developer<br/>
-🛠Currently working on making mobile games by Unity for both Android & iOS
+🎮I'm a passionate developer on front-end and game<br/>
+
 
 
 # 💻Tech Stack
