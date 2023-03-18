@@ -4,9 +4,6 @@
 
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohcatman)  
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
