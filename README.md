@@ -1,6 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohcatman)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohcatman&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
