@@ -1,7 +1,4 @@
-<!-- # 💫About Me :
-🎮I'm a passionate developer on front-end and game<br/>
- -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohcatman)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ✍️Random Dev Quote
